@@ -2,7 +2,7 @@
 
 Can qualifying data predict how a Formula 1 race at the Circuit of the Americas will finish? This project started as my M.S. in Artificial Intelligence capstone and was then tested honestly against the simplest possible rule, **"drivers finish where they start"**, and improved.
 
-**By Tanya Sasnouskaya** · M.S. Artificial Intelligence · data analyst, INTENNSE professional tennis league · [LinkedIn](https://www.linkedin.com/in/tanya-sasnouskaya-69208a297)
+**By Tanya Sasnouskaya** · M.S. Artificial Intelligence · sports data analyst · [LinkedIn](https://www.linkedin.com/in/tanya-sasnouskaya-69208a297)
 
 ---
 
