@@ -24,6 +24,19 @@ Each Austin race from 2018 to 2024 was predicted using **only data from before t
 - **Training on every race since 2014 and adding recent form cuts error 16%** compared with the grid. Recent team and driver results capture who is quick *right now*, which a single qualifying session can miss.
 - **It holds beyond Austin.** Across all 68 races of the 2022–2024 seasons, the form-aware model is off by 3.20 places versus 3.51 for the grid, and picks the winner 56% of the time versus 51% for "pole wins".
 
+### The predictions, race by race
+
+Predicted podium from the **All-races + form** model, next to what actually happened. **Bold** = predicted driver who made the real podium.
+
+| Year | Predicted top 3 | Actual top 3 | Podium drivers correct |
+|---|---|---|---|
+| 2018 | **Hamilton**, **Räikkönen**, Bottas | Räikkönen, Verstappen, Hamilton | 2 / 3 |
+| 2019 | **Bottas**, Vettel, **Verstappen** | Bottas, Hamilton, Verstappen | 2 / 3 |
+| 2021 | **Verstappen**, **Hamilton**, **Pérez** | Verstappen, Hamilton, Pérez | 3 / 3, exact order |
+| 2022 | Sainz, Pérez, **Verstappen** | Verstappen, Hamilton, Leclerc | 1 / 3 |
+| 2023 | **Norris**, Leclerc, Hamilton | Verstappen, Norris, Sainz | 1 / 3 |
+| 2024 | Norris, **Verstappen**, **Sainz** | Leclerc, Sainz, Verstappen | 2 / 3 |
+
 ### 2024 case study
 
 The form-aware model's predicted top five (Norris, Verstappen, Sainz, Piastri, Leclerc) was **exactly the real top five**, just in a different order: Charles Leclerc won from 4th on the grid, ahead of Sainz and Verstappen.
