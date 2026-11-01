@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy
+scipy
+scikit-learn
+matplotlib
+jupyter
+fastf1
+joblib
+colorama

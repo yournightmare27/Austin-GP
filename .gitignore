@@ -1,0 +1,7 @@
+data/*.csv
+cache_folder/
+**/cache_folder/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
