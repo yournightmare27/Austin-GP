@@ -62,8 +62,8 @@ Starting position dominates, but team form is the second-strongest signal, ahead
 ## Run it yourself
 
 ```bash
-git clone https://github.com/yournightmare27/Baku-GP.git
-cd Baku-GP
+git clone https://github.com/yournightmare27/Austin-GP.git
+cd Austin-GP
 pip install -r requirements.txt
 ```
 
